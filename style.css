@@ -1,0 +1,43 @@
+:root {
+  --yt-spec-brand-button-background: #3ea6ff !important;
+  --yt-spec-call-to-action: #3ea6ff !important;
+  --yt-spec-themed-blue: #3ea6ff !important;
+  --yt-spec-red: #3ea6ff !important;
+}
+
+/* Прогресс видео */
+.ytp-play-progress {
+  background: #3ea6ff !important;
+}
+
+/* Ползунок */
+.ytp-scrubber-button {
+  background: #3ea6ff !important;
+}
+
+/* Активные элементы меню */
+tp-yt-paper-item[aria-selected="true"] {
+  color: #3ea6ff !important;
+}
+
+ytd-guide-entry-renderer yt-icon.guide-entry-badge {
+  color: #3ea6ff !important;
+}
+
+/* лого 1*/
+ytd-masthead path[d^="M14.4848 20C14.4848"] {
+  fill: #3e8eff !important;
+}
+/*
+ytd-logo path[d^="M19 10L11.5 5.75"] {
+  fill: black !important;
+}*/
+
+/* лого 2*/
+tp-yt-app-drawer ytd-topbar-logo-renderer path[d^="M14.4848 20C14.4848"] {
+  fill: #3ea6ff !important;
+}
+
+rich-shelf-header path[d^="m19.45,3.88c1.12"]{
+  fill: #3ea6ff !important;
+}
