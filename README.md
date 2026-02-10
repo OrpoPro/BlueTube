@@ -4,4 +4,4 @@
 </p>
 
 # BlueTube
-Chrome extension, make YouTube blue, open-sourced, MIT-licensed
+Chrome extension, make YouTube blue, open-source, MIT-licensed
